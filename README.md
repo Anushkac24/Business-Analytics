@@ -1,0 +1,1 @@
+This repository is created as part of the Foundation of Business Analytics course offered by PW (PhysicsWallah). It contains the implementation of the tasks provided in the course, focusing on analyzing waht we have undrerstood and for gradeing purpose.
